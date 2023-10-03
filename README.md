@@ -22,7 +22,7 @@
 <a href="https://www.youtube.com/channel/UCe9adbTmcIEsd1Ck8a17P2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivam bhardwaj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivamroy096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamroy096" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivamroy096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivamroy096" height="30" width="40" /></a>
-<a href="https://leetcode.com/ShivamBhardwaj8935/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="shivamroy096" height="30" width="40" /></a>
+<a href="https://leetcode.com/ShivamBhardwaj8935/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2F&psig=AOvVaw3-gzOfg65SINEMxizmC6hw&ust=1696401144111000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMi2j--g2YEDFQAAAAAdAAAAABAE" alt="shivamroy096" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
