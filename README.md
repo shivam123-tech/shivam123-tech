@@ -21,8 +21,8 @@
 <a href="https://instagram.com/shivam_roy5550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam_roy5550" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCe9adbTmcIEsd1Ck8a17P2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivam bhardwaj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivamroy096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamroy096" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shivamroy096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivamroy096" height="30" width="40" /></a>
-<a href="https://leetcode.com/ShivamBhardwaj8935/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8wdA-PqXaNzcfUmvGJjt_Nu31H72T7J-l4I5CzDlewG1IAyAalyUD95gw4gqlH22ZQI&usqp=CAU" alt="shivamroy096" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shivamroy096" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivamroy096" height="30" width="40" /></a>
+<a href="https://leetcode.com/ShivamBhardwaj8935/" target="_blank"><img align="center" src="https://i0.wp.com/happydevops.com/wp-content/uploads/2022/07/leetcode-logo.png?fit=512%2C512&ssl=1" alt="shivamroy096" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
